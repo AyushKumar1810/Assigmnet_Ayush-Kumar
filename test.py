@@ -1,5 +1,5 @@
 # Girus Technical Coding Interview Solutions
-# Author: AYUSH KUMAR (ayushsri1810@gmail.com)
+# Author:`` AYUSH KUMAR (ayushsri1810@gmail.com)
 # Language: Python 3
 # Date: June 7, 2025
 
